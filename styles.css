@@ -1,0 +1,51 @@
+.title {
+    font-family: 'Major Mono Display', monospace;
+}
+
+.header {
+    display: block;
+    text-align: center;
+    font-size: 30px;
+    margin-top: -25px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    padding: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    font-family: 'B612 Mono', monospace;
+}
+
+a:hover {
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-decoration-color: #ED2939;
+}
+
+.verticaltext {
+    width: 1px;
+    word-wrap: break-word;
+    min-height: 2000px;
+}
+
+.left {
+    position: fixed;
+    float: left;
+}
+.articles{
+	font-family: 'B612 Mono', monospace;
+	float: right;
+	width: 90%;
+}
+hr.style1{
+	border-top: 1px solid #0080FF;
+	float: left;
+}
