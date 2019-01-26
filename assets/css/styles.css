@@ -94,7 +94,7 @@ p {
 }
 
 .image {
-  background-size:300px;
+  background-size :100px;
   position: relative;
   border: 1px solid black;
   border-radius: 4px;
